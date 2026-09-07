@@ -1,0 +1,22 @@
+TechNova Cloud Storage – Frequently Asked Questions
+
+Q: แพ็กเกจ Free Plan ให้พื้นที่จัดเก็บข้อมูลเท่าไหร่?
+A: Free Plan ให้พื้นที่จัดเก็บข้อมูล 15 GB ต่อบัญชี ไม่มีค่าใช้จ่ายรายเดือน แต่มีข้อจำกัดเรื่องขนาดไฟล์อัปโหลดสูงสุด 2 GB ต่อไฟล์
+
+Q: What is the maximum file size for the Pro Plan?
+A: The Pro Plan allows file uploads up to 50 GB per file, with a total storage capacity of 2 TB per account, billed at $9.99 per month.
+
+Q: ข้อมูลที่อัปโหลดมีการเข้ารหัสหรือไม่?
+A: ข้อมูลทั้งหมดจะถูกเข้ารหัสด้วยมาตรฐาน AES-256 ทั้งขณะส่งผ่านเครือข่าย (in transit) และขณะจัดเก็บ (at rest) เพื่อความปลอดภัยสูงสุด
+
+Q: Can I recover deleted files?
+A: Yes, deleted files remain in the Trash folder for 30 days before being permanently removed. Pro Plan users can extend this retention period to 90 days in account settings.
+
+Q: การยกเลิกสมาชิกแบบ Pro Plan ทำอย่างไร?
+A: ผู้ใช้สามารถยกเลิกสมาชิก Pro Plan ได้ทุกเมื่อผ่านหน้า Account Settings > Billing > Cancel Subscription ระบบจะยังคงให้ใช้งานสิทธิ์ Pro จนกว่าจะครบรอบบิลปัจจุบัน หลังจากนั้นบัญชีจะถูกปรับเป็น Free Plan โดยอัตโนมัติ และหากพื้นที่ใช้งานเกิน 15 GB ผู้ใช้จะไม่สามารถอัปโหลดไฟล์ใหม่ได้จนกว่าจะลบไฟล์ส่วนเกินออก
+
+Q: Is there a mobile app available?
+A: Yes, TechNova Cloud Storage is available on iOS and Android. The mobile app supports auto-backup for photos and videos, offline file access, and biometric login.
+
+Q: บริษัทมีการสำรองข้อมูล (backup) อย่างไร?
+A: ระบบมีการสำรองข้อมูลอัตโนมัติทุก 6 ชั่วโมง และเก็บสำเนาสำรองไว้ในศูนย์ข้อมูล 3 แห่งที่แยกกันทางภูมิศาสตร์ เพื่อป้องกันการสูญหายของข้อมูลในกรณีที่เกิดเหตุขัดข้องร้ายแรง
